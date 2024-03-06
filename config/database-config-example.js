@@ -1,0 +1,1 @@
+export const URI = 'mongodb+srv://kumarharshit8225:Harshit@cluster0.lymlfgb.mongodb.net/';
