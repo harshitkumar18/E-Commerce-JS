@@ -1,3 +1,3 @@
 export const api = {
-    jwt_secret: "612EC3827256EFE8",
+    jwt_secret: process.env.JWT_SECRET,
 };
